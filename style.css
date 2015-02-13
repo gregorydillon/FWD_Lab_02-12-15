@@ -1,0 +1,48 @@
+body {
+    background-image: url("illusion.png");
+    color:white;
+
+}
+.hello {
+  width: 400px;
+  height: 40px;
+  border:5px solid black;
+  margin:20px;
+}
+
+.transparency{
+  background-image: url("transparency.png");
+}
+
+.graphical{
+  font: 0/0 a;
+  text-shadow: none;
+  color: transparent;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.formal{
+  background-image: url("formal.png");
+}
+
+.casual{
+  background-image: url("casual.png");
+}
+.handwritten{
+  background-image: url("handwritten.png");
+}
+.smiley{
+  background-image: url("smiley.png");
+  background-position: center ;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+}
+.offset{
+  background-image: url("checkbox.png");
+  background-repeat: no-repeat;
+  background-position: 10% 50%;
+  text-indent: 80px;
+  line-height: 40px;
+}
